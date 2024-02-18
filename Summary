@@ -1,0 +1,23 @@
+Summary
+This project involves analyzing the financial performance of various airlines in relation to crude oil prices. 
+The dataset, loaded using the Pandas library in Python, contains information on different airlines' profits and crude oil prices over several years.
+
+Part 1: Time-Series Plot for Emirates Airlines
+A time-series plot is created to visualize the annual profits of Emirates Airlines alongside the corresponding crude oil prices. 
+The plot uses Matplotlib and displays the profit and crude oil price trends over time. The correlation between crude oil prices and Emirates Airlines profit is also calculated and presented.
+
+Part 2: Regression Analysis for Emirates Airlines
+A scatter plot with a regression line is generated using Seaborn to explore the correlation between crude oil prices and Emirates Airlines profit more comprehensively. 
+The slope, intercept, and R-squared value of the regression line are calculated and printed.
+
+Parts 3-8: Similar Analysis for Other Airlines
+The same analysis is repeated for different airlines: LATAM Airlines, Ethiopian Airlines, American Airlines, Air France, All Nippon Airways, Qantas Airways, British Airways, and an aggregate of all airlines. 
+Each section includes a time-series plot, correlation coefficient calculation, and regression analysis.
+
+Conclusion:
+The project concludes by comparing the correlation coefficients and regression analyses for each airline, providing insights into the relationships between crude oil prices and airline profits. 
+The R-squared values offer an indication of the strength of the relationships, with negative correlations suggesting inverse relationships between crude oil prices and profits for some airlines. The overall performance of all airlines is also analyzed.
+This comprehensive analysis helps to understand how fluctuations in crude oil prices may impact the financial performance of different airlines.
+
+
+
