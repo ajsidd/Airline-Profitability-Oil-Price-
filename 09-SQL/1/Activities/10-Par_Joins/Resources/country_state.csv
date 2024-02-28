@@ -1,0 +1,205 @@
+﻿COUNTRY_NAME,STATE_NAME,ISO_COUNTRY_CODE,ISO_SUBDIVISION_CODE
+AT SEA,,AA,
+Angola,,AO,
+Anguilla,,AI,
+Antarctica,,AQ,
+Antigua And Barbuda,,AG,
+Argentina,,AR,
+Aruba,,NL,
+Ashmore and Cartier Islands,,AU,
+Australia,,AU,
+"Bahamas, The",,BS,
+Barbados,,BB,
+Bassas da India,,FR,
+Belarus,,BY,
+Belgium,,BE,
+Belize,,BZ,
+Benin,,BJ,
+Bermuda,,BM,
+Bolivia,,BO,
+Brazil,,BR,
+British Virgin Islands,,VG,
+Cameroon,,CM,
+Canada,Alberta,CA,CA-AB
+Canada,British Columbia,CA,CA-BC
+Canada,Manitoba,CA,CA-MB
+Canada,New Brunswick,CA,CA-NB
+Canada,Newfoundland and Labrador,CA,CA-NL
+Canada,Northwest Territories,CA,CA-NT
+Canada,Nova Scotia,CA,CA-NS
+Canada,Nunavut,CA,CA-NU
+Canada,Ontario,CA,CA-ON
+Canada,Prince Edward Island,CA,CA-PE
+Canada,Québec,CA,CA-QC
+Canada,Saskatchewan,CA,CA-SK
+Canada,Yukon Territory,CA,CA-YT
+Canada,,CA,CA
+Cayman Islands,,KY,
+Chile,,CL,
+China,,CN,
+Clipperton Island,,FR,
+Colombia,,CO,
+Cook Islands,,CK,
+Coral Sea Islands,,AU,
+Costa Rica,,CR,
+Cote D'Ivoire,,CI,
+Cuba,,CU,
+Denmark,,DK,
+Dominica,,DM,
+Dominican Republic,,DO,
+Ecuador,,EC,
+El Salvador,,SV,
+Equatorial Guinea,,GQ,
+Eritrea,,ER,
+Europa Island,,FR,
+Falkland Islands (Islas Malvinas),,FK,
+Faroe Islands,,FO,
+Federated States Of Micronesia,,FM,
+Fiji,,FJ,
+France,,FR,
+French Guiana,,FR,
+French Polynesia,,FR,
+French Southern and Antarctic Lands,,TF,
+Ghana,,GH,
+Glorioso Islands,,FR,
+Greenland,,GL,
+Grenada,,GD,
+Guadeloupe,,FR,
+Guatemala,,GT,
+Guernsey,,GG,
+Guyana,,GY,
+Haiti,,HT,
+Honduras,,HN,
+Hong Kong,,CN,
+Iceland,,IS,
+Indonesia,,ID,
+Ireland,,IE,
+Italy,,IT,
+Jamaica,,JM,
+Jan Mayen,,NO,
+Japan,,JP,
+Jersey,,JE,
+Johnston Atoll,,US,
+Juan de Nova Island,,FR,
+Kiribati,,KI,
+Liberia,,LR,
+Macau,,CN,
+Marshall Islands,,MH,
+Martinique,,FR,
+Mauritius,,MU,
+Mayotte,,FR,
+Mexico,,MX,
+Montserrat,,MS,
+Morocco,,MA,
+Namibia,,NA,
+Nauru,,NR,
+Netherlands,,NL,
+Netherlands Antilles,,NL,
+New Caledonia,,FR,
+New Zealand,,NZ,
+Nicaragua,,NI,
+Nigeria,,NG,
+Niue,,NU,
+Northern Mariana Islands,,US,
+Norway,,NO,
+Panama,,PA,
+Papua New Guinea,,PG,
+Paracel Islands,,CN,
+Paraguay,,PY,
+Peru,,PE,
+Philippines,,PH,
+Portugal,,PT,
+Republic of the Congo,,CG,
+Reunion,,FR,
+Russia,,RU,
+Senegal,,SN,
+Seychelles,,SC,
+Sierra Leone,,SL,
+Solomon Islands,,SB,
+South Africa,,ZA,
+South Georgia and The South Sandwich Islands,,GS,
+South Korea,,KR,
+Spain,,ES,
+Spratly Islands,,CN,
+St. Helena,,SH,
+St. Kitts and Nevis,,KN,
+St. Lucia,,LC,
+St. Pierre And Miquelon,,FR,
+St. Vincent and The Grenadines,,VC,
+Suriname,,SR,
+Svalbard,,NO,
+Switzerland,,CH,
+Togo,,TG,
+Tokelau,,TK,
+Tonga,,TO,
+Trinidad And Tobago,,TT,
+Tromelin Island,,FR,
+Trust Territory of the Pacific Islands (Palau),,PW,
+Turks and Caicos Islands,,TC,
+Tuvalu,,TV,
+UNKNOWN,,ZZ,
+United Kingdom,,GB,
+United States,Alabama,US,US-AL
+United States,Alaska,US,US-AK
+United States,American Samoa,US,US-AS
+United States,Arizona,US,US-AZ
+United States,Arkansas,US,US-AR
+United States,California,US,US-CA
+United States,Colorado,US,US-CO
+United States,Connecticut,US,US-CT
+United States,Delaware,US,US-DE
+United States,District of Columbia,US,US-DC
+United States,Florida,US,US-FL
+United States,Georgia,US,US-GA
+United States,Guam,US,US-GU
+United States,Hawaii,US,US-HI
+United States,Idaho,US,US-ID
+United States,Illinois,US,US-IL
+United States,Indiana,US,US-IN
+United States,Iowa,US,US-IA
+United States,Kansas,US,US-KS
+United States,Kentucky,US,US-KY
+United States,Louisiana,US,US-LA
+United States,Maine,US,US-ME
+United States,Maryland,US,US-MD
+United States,Massachusetts,US,US-MA
+United States,Michigan,US,US-MI
+United States,Minnesota,US,US-MN
+United States,Mississippi,US,US-MS
+United States,Missouri,US,US-MO
+United States,Montana,US,US-MT
+United States,Nebraska,US,US-NE
+United States,Nevada,US,US-NV
+United States,New Hampshire,US,US-NH
+United States,New Jersey,US,US-NJ
+United States,New Mexico,US,US-NM
+United States,New York,US,US-NY
+United States,North Carolina,US,US-NC
+United States,North Dakota,US,US-ND
+United States,Northern Mariana Islands,US,US-MP
+United States,Ohio,US,US-OH
+United States,Oklahoma,US,US-OK
+United States,Oregon,US,US-OR
+United States,Pennsylvania,US,US-PA
+United States,Puerto Rico,US,US-PR
+United States,Rhode Island,US,US-RI
+United States,South Carolina,US,US-SC
+United States,South Dakota,US,US-SD
+United States,Tennessee,US,US-TN
+United States,Texas,US,US-TX
+United States,U.S. Minor Outlying Islands,US,US-UM
+United States,Utah,US,US-UT
+United States,Vermont,US,US-VT
+United States,Virgin Islands of the United States,US,US-VI
+United States,Virginia,US,US-VA
+United States,Washington,US,US-WA
+United States,West Virginia,US,US-WV
+United States,Wisconsin,US,US-WI
+United States,Wyoming,US,US-WY
+United States,,US,US
+Uruguay,,UY,
+Vanuatu,,VU,
+Venezuela,,VE,
+Vietnam,,VN,
+Wallis and Futuna,,FR,
+Western Samoa,,WS,

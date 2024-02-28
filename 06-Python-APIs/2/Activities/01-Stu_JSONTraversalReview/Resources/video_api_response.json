@@ -1,0 +1,27 @@
+{
+    "data":{
+        "updated":"2021-06-07T12:00:00.000Z",
+        "totalItems":10,
+        "startIndex":1,
+        "itemsPerPage":1,
+        "items":[
+            {"id":"1234567890",
+             "uploaded":"2021-06-05T12:00:00.000Z",
+             "updated":"2021-06-07T12:00:00.000Z",
+             "category":"Educational",
+             "title":"Introduction to Python Programming",
+             "description":"This is the an introduction course to Python programming.",
+             "tags":[
+                "Python","Data","Coding"
+             ],
+             "duration":45,
+             "aspectRatio":"widescreen",
+             "rating":2.35,
+             "ratingCount":453,
+             "viewCount":1350,
+             "favoriteCount":21,
+             "commentCount":3
+            }
+        ]
+     }
+}
